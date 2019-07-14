@@ -1,12 +1,4 @@
 reactClient/node_modules/
 
-*.log
-*.pot
-*.pyc
-__pycache__
-media
-
-# Backup files # 
-*.bak 
 
 
