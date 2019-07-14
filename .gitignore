@@ -4,7 +4,6 @@ reactClient/node_modules/
 *.pot
 *.pyc
 __pycache__
-pyReactJwtAuth/db.sqlite3
 media
 
 # Backup files # 
