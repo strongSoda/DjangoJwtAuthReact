@@ -1,0 +1,27 @@
+.App {
+  margin-left: 20px;
+}
+
+input {
+  display: block;
+  margin: 5px 0 5px;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  background: gold;
+  margin: 1em;
+  border: none;
+  padding: 0.9em;
+  cursor: pointer;
+}
+
+ ul{
+   max-width: 12em;
+   border-bottom: 1px solid black;
+   border-left: 1px solid black;
+   border-right: 1px solid black;
+ }
